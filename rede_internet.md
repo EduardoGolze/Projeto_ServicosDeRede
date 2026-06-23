@@ -22,9 +22,4 @@ Verificar IP: ip a
 
 Testar internet: ping -c 4 8.8.8.8
 
-4. Evidências e Testes
-Configuração de IP Local:
-<img width="1123" height="627" alt="p1" src="https://github.com/user-attachments/assets/de39df67-5423-48d8-acd5-93e18467427f" />
 
-Teste de Conectividade Externa:
-<img width="787" height="593" alt="p2" src="https://github.com/user-attachments/assets/1609f949-4b8e-44cd-a567-9a6c4fd3f8b9" />

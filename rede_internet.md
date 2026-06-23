@@ -18,8 +18,4 @@ network:
 3. Comandos de Validação
 Aplicar alterações: sudo netplan apply
 
-Verificar IP: ip a
-
-Testar internet: ping -c 4 8.8.8.8
-
 
